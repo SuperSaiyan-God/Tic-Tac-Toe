@@ -1,0 +1,4 @@
+#Fri Nov 01 11:46:18 IST 2019
+base.0=/home/papan/Desktop/TicTacToe/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

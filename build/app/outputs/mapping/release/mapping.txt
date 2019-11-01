@@ -1,0 +1,22 @@
+# compiler: R8
+# compiler_version: 1.5.68
+# min_api: 16
+# pg_map_id: 7ffd2e3
+io.flutter.embedding.android.SplashScreen$-CC -> io.flutter.embedding.android.a:
+    boolean io.flutter.embedding.android.SplashScreen.doesSplashViewRememberItsTransition() -> $default$doesSplashViewRememberItsTransition
+    android.os.Bundle io.flutter.embedding.android.SplashScreen.saveSplashScreenState() -> $default$saveSplashScreenState
+io.flutter.plugin.platform.-$$Lambda$PlatformViewsController$1$yCLpCrkCk5PKTxnfIMt18jB15HI -> io.flutter.plugin.platform.a:
+    io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest f$1 -> b
+    io.flutter.plugin.platform.PlatformViewsController$1 f$0 -> a
+io.flutter.plugin.platform.PlatformView$-CC -> io.flutter.plugin.platform.b:
+    void io.flutter.plugin.platform.PlatformView.onInputConnectionLocked() -> $default$onInputConnectionLocked
+    void io.flutter.plugin.platform.PlatformView.onInputConnectionUnlocked() -> $default$onInputConnectionUnlocked
+io.flutter.plugin.platform.PlatformViewsController$1 -> io.flutter.plugin.platform.PlatformViewsController$1:
+    void lambda$createPlatformView$0(io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest,android.view.View,boolean) -> a
+io.flutter.view.-$$Lambda$AccessibilityBridge$JBDpWWlF54eN0gel8Jn1hY7yOmE -> io.flutter.view.a:
+    io.flutter.view.AccessibilityBridge$SemanticsNode f$0 -> a
+io.flutter.view.-$$Lambda$AccessibilityBridge$_xgAbWhyKyeHrMGUVUYzbSFEeBY -> io.flutter.view.b:
+    io.flutter.view.-$$Lambda$AccessibilityBridge$_xgAbWhyKyeHrMGUVUYzbSFEeBY INSTANCE -> a
+io.flutter.view.AccessibilityBridge -> io.flutter.view.AccessibilityBridge:
+    boolean lambda$shouldSetCollectionInfo$0(io.flutter.view.AccessibilityBridge$SemanticsNode,io.flutter.view.AccessibilityBridge$SemanticsNode) -> a
+    boolean lambda$shouldSetCollectionInfo$1(io.flutter.view.AccessibilityBridge$SemanticsNode) -> a
