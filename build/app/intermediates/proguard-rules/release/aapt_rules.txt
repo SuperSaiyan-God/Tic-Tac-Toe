@@ -1,4 +1,0 @@
-# Referenced at /home/papan/Desktop/TicTacToe/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:28
--keep class com.example.tictactoe.MainActivity { <init>(); }
-# Referenced at /home/papan/Desktop/TicTacToe/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:24
--keep class io.flutter.app.FlutterApplication { <init>(); }
