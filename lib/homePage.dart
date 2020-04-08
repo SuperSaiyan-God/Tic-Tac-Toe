@@ -184,7 +184,7 @@ class _HomePageState extends State<HomePage> {
               gradient: LinearGradient(
                   begin: Alignment.topRight,
                   end: Alignment.bottomLeft,
-                  colors: [Colors.blue, Colors.red])),
+                  colors: [Color(0xFFcc2b5e), Color(0xFF753a88)])),
           child: new Column(
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.stretch,
